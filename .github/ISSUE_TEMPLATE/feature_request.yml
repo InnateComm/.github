@@ -1,40 +1,42 @@
 name: Feature Request
-description: File a feature request
+description: Suggest an idea for this project
 title: "[Feat]: "
 labels: ["🚦 status: awaiting triage"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this feature request!
-
   - type: textarea
-    id: detailed-description
+    id: description
     attributes:
-      label: Detailed Description
-      description: What do you want to be added? How does it help others? Describe the feature
-      placeholder: A detailed description of the feature request.
-      value: "I found ... in this project which can be improved by adding ..."
+      label: Description
+      description: Is your feature request related to a problem? Please describe.
+      placeholder: I'm always frustrated when [...]
+      value: "I'm always frustrated when [...]"
     validations:
       required: true
 
-  - type: checkboxes
-    id: code-of-conduct
+  - type: textarea
+    id: solution
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/CeruleanCodersComm/.github/blob/main/CODE_OF_CONDUCT.md)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+      label: Solution
+      description: A clear and concise description of what you want to happen.
+      placeholder: I want a discord command `!server` to be added where we can view the server member count
+      value: ""
     validations:
-        required: true
+      required: false
 
   - type: textarea
     attributes:
-        label: Anything else?
-        description: |
-          Links? References? Anything that will give us more context about the issue you are encountering!
-      
-          Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
+      label: Anything else?
+      description: |
+        Links? References? Anything that will give us more context about the issue you are encountering!
+
+        Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
     validations:
-        required: false
+      required: false
+
+  - type: checkboxes
+    id: guidelines
+    attributes:
+      label: Code of Conduct
+      options:
+        - label: I agree to follow this project's [Code of Conduct](https://github.com/CeruleanCodersComm/.github/blob/main/CODE_OF_CONDUCT.md)
+          required: true
