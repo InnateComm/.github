@@ -9,6 +9,7 @@ body:
       label: Description
       description: Is your feature request related to a problem? Please describe.
       placeholder: "I'm always frustrated when [...]"
+      value: ""
     validations:
       required: true
 
