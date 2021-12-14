@@ -1,8 +1,17 @@
 <!-- markdownlint-disable -->
 <div align="center">
-  <img src="https://github.com/CeruleanCodersComm.png" height="100">
   <h1>Cerulean Coders</h1>
-  <b>An student-run open source community focusing on project based learning. The merging point of community, learning and projects 🎊</b>
+  <p>
+    <a href="https://dsc.gg/ceruleancoders">
+      <img src="https://img.shields.io/badge/Discord%20Server%0A-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+    <a href="https://twitter.com/CeruleanCoders">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+    </a>
+  </p>
+  <p>
+    <img src="https://user-images.githubusercontent.com/91655303/145942019-1ef0e3ef-3c79-4936-9da1-af0a3803e689.png">
+  </p>
 </div>
 
 <!-- markdownlint-enable -->
