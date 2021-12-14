@@ -1,5 +1,6 @@
 <!-- markdownlint-disable -->
 <div align="center">
+  <img src="https://github.com/github.png">
   <h1>.github</h1>
   <h2>Community health files for the @CeruleanCodersComm organization</h2>
 </div>
