@@ -9,7 +9,7 @@ body:
       label: Description
       description: Is your feature request related to a problem? Please describe.
       placeholder: "I'm always frustrated when [...]"
-      value: ""
+      value: "I'm always frustrated when [...]"
     validations:
       required: true
 
@@ -19,7 +19,7 @@ body:
       label: Solution
       description: A clear and concise description of what you want to happen.
       placeholder: I want a discord command `!server` to be added where we can view the server member count
-      value: ""
+      value: "I want"
     validations:
       required: false
 
