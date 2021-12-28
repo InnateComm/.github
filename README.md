@@ -18,6 +18,17 @@ You may call this repo as a fallback.
 
 For more information, please see the article on [creating a default community health file for your organization](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization).
 
+## 💣 Reporting Bugs 
+<br/>
+This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report 📝, reproduce the behavior 💻 💻, and find related reports. 🔎
+
+Since the new GitHub Issue forms we only suggest you to include most information possible. But you can also **Perform a [cursory search](https://github.com/CeruleanCodersComm/.github/issues)** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
+
+> **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
+
+
+
+
 ## What is inherited?
 
 - [Code Of Conduct](https://github.com/CeruleanCodersComm/.github/blob/main/CODE_OF_CONDUCT.md) - Contributor Covenant Code of Conduct v2
