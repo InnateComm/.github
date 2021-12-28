@@ -26,6 +26,18 @@ Since the new GitHub Issue forms we only suggest you to include most information
 
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
+## 🛠 Reporting good feature requests
+<br/>
+Bugs are tracked as [GitHub issues](https://github.com/CeruleanCodersComm/.github/issues). After you've determined [which repository](#.github) your bug is related to, create an issue on that repository and provide the following information by filling in [the template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md).
+
+Explain the problem and include additional details to help maintainers reproduce the problem:
+
+* **Use a clear and descriptive title** for the issue to identify the problem.
+* **Describe the exact steps which reproduce the problem** in as many details as possible. 
+
+* **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that behavior.
+* **Explain which behavior you expected to see instead and why.**
+* **Include screenshots or animated GIFs** which show you following the described steps and clearly demonstrate the problem. If you use the keyboard while following the steps, use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
 
 
 
