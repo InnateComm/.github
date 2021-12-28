@@ -77,7 +77,7 @@ git checkout -b your-branch-name
 git add . # Stages all the changes
 git commit -m "<your_commit_message>"
 ```
-
+Your commit message should be something which gives concise idea of the issue you are solving.
 
 **7.** Push your local commits to the remote repository.
 
