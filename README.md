@@ -27,8 +27,8 @@ Since the new GitHub Issue forms we only suggest you to include most information
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
 ## 🛠 Reporting good feature requests
-<br/>
-Bugs are tracked as [GitHub issues](https://github.com/CeruleanCodersComm/.github/issues). After you've determined [which repository](#.github) your bug is related to, create an issue on that repository and provide the following information by filling in [the template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md).
+
+Bugs are tracked as github [issues](https://github.com/CeruleanCodersComm/.github/issues). After you've determined which repository your bug is related to, create an issue on that repository.
 
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
@@ -60,9 +60,9 @@ Kindly give your branch a more descriptive name like `docs-contributing-guide-2`
 
 You could follow this convention. Some ideas to get you started:
 
-*   Feature Updates: `feat-<2-3-Words-Description>-<ISSUE_NO>`
-*   Bug Fixes: `fix-<2-3-Words-Description>-<ISSUE_NO>`
-*   Documentation: `docs-<2-3-Words-Description>-<ISSUE_NO>`
+*   Feature Updates: `feat-<brief 5-10 words-Description>-<ISSUE_NO>`
+*   Bug Fixes: `fix-<brief 5-10 words-Description>-<ISSUE_NO>`
+*   Documentation: `docs-<brief 5-10 words-Description>-<ISSUE_NO>`
 *   And so on...
 
 ```bash
