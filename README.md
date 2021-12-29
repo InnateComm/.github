@@ -91,9 +91,6 @@ git push origin your-branch-name
 
 
 
-## Link to our Community https://dsc.gg/ceruleancoders
-
-
 ## What is inherited?
 
 - [Code Of Conduct](https://github.com/CeruleanCodersComm/.github/blob/main/CODE_OF_CONDUCT.md) - Contributor Covenant Code of Conduct v2
@@ -102,3 +99,6 @@ git push origin your-branch-name
 - [Security Policy](https://github.com/CeruleanCodersComm/.github/blob/main/SECURITY.md) - Informs users on how to report vulnerabilities
 - [Issue Templates](https://github.com/CeruleanCodersComm/.github/tree/main/.github/ISSUE_TEMPLATE) - Basic Issue Templates
 - [PR Template](https://github.com/CeruleanCodersComm/.github/blob/main/.github/PULL_REQUEST_TEMPLATE.md) - Fallback PR Template
+
+
+## Join our Community on [Discord](https://dsc.gg/ceruleancoders)
