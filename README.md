@@ -91,7 +91,7 @@ git push origin your-branch-name
 
 
 
-## Link to our Community  https://dsc.gg/ceruleancoders
+## Link to our Community https://dsc.gg/ceruleancoders
 
 
 ## What is inherited?
