@@ -91,6 +91,9 @@ git push origin your-branch-name
 
 
 
+## Link to our Community  https://dsc.gg/ceruleancoders
+
+
 ## What is inherited?
 
 - [Code Of Conduct](https://github.com/CeruleanCodersComm/.github/blob/main/CODE_OF_CONDUCT.md) - Contributor Covenant Code of Conduct v2
