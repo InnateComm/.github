@@ -1,15 +1,14 @@
 ## 💣 Reporting Bugs 
-<br/>
 This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report 📝, reproduce the behavior 💻 💻, and find related reports. 🔎
 
-Since the new GitHub Issue forms we only suggest you to include most information possible. But you can also **Perform a [cursory search](https://github.com/CeruleanCodersComm/.github/issues)** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
+Since the new GitHub Issue forms, we only suggest you include the most information possible. But you can also **Perform a [cursory search](../../../issues)** to see if the enhancement has already been suggested. If it has, adds a comment to the existing issue instead of opening a new one.
 
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
 
 ## 🛠 Reporting good feature requests
 
-Bugs are tracked as github [issues](https://github.com/CeruleanCodersComm/.github/issues). After you've determined which repository your bug is related to, create an issue on that repository.
+Bugs are tracked as github [issues](../../../issues). After you've determined which repository your bug is related to, create an issue on that repository.
 
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
@@ -21,7 +20,7 @@ Explain the problem and include additional details to help maintainers reproduce
 * **Include screenshots or animated GIFs** which show you following the described steps and clearly demonstrate the problem. If you use the keyboard while following the steps, use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
 
 ## Cloning the project & creating PR
-**1.** Fork [this](https://github.com/CeruleanCodersComm/.github) repository. Click on the <a  href="https://github.com/CeruleanCodersComm/.github"><img  src="https://img.icons8.com/fluency/30/000000/code-fork.png"/></a> symbol at the top right corner.
+**1.** Fork the repository. Click on the <a  href="https://github.com/CeruleanCodersComm/.github"><img  src="https://img.icons8.com/fluency/30/000000/code-fork.png"/></a> symbol at the top right corner.
 
 **2.** Clone the forked repository.
 
