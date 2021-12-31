@@ -26,5 +26,3 @@ For more information, please see the article on [creating a default community he
 - [Security Policy](https://github.com/CeruleanCodersComm/.github/blob/main/SECURITY.md) - Informs users on how to report vulnerabilities
 - [Issue Templates](https://github.com/CeruleanCodersComm/.github/tree/main/.github/ISSUE_TEMPLATE) - Basic Issue Templates
 - [PR Template](https://github.com/CeruleanCodersComm/.github/blob/main/.github/PULL_REQUEST_TEMPLATE.md) - Fallback PR Template
-
-
