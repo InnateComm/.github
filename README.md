@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/github.png" height="100">
   <h1>.github</h1>
-  <h2>Community health files for the @CeruleanCodersComm organization</h2>
+  <h2>Community health files for the @InnateComm organization</h2>
 </div>
 
 <!-- markdownlint-enable -->
@@ -20,9 +20,9 @@ For more information, please see the article on [creating a default community he
 
 ## What is inherited?
 
-- [Code Of Conduct](https://github.com/CeruleanCodersComm/.github/blob/main/CODE_OF_CONDUCT.md) - Contributor Covenant Code of Conduct v2
-- [Contributing Guide](https://github.com/CeruleanCodersComm/.github/issues/2) - **Looking for contributors**
-- [License](https://github.com/CeruleanCodersComm/.github/blob/main/LICENSE) - MIT License
-- [Security Policy](https://github.com/CeruleanCodersComm/.github/blob/main/SECURITY.md) - Informs users on how to report vulnerabilities
-- [Issue Templates](https://github.com/CeruleanCodersComm/.github/tree/main/.github/ISSUE_TEMPLATE) - Basic Issue Templates
-- [PR Template](https://github.com/CeruleanCodersComm/.github/blob/main/.github/PULL_REQUEST_TEMPLATE.md) - Fallback PR Template
+- [Code Of Conduct](https://github.com/InnateComm/.github/blob/main/CODE_OF_CONDUCT.md) - Contributor Covenant Code of Conduct v2
+- [Contributing Guide](https://github.com/InnateComm/.github/blob/main/CONTRIBUTING.md) - Contributing Guide written by contributors 🥂
+- [License](https://github.com/InnateComm/.github/blob/main/LICENSE) - MIT License
+- [Security Policy](https://github.com/InnateComm/.github/blob/main/SECURITY.md) - Informs users on how to report vulnerabilities
+- [Issue Templates](https://github.com/InnateComm/.github/tree/main/.github/ISSUE_TEMPLATE) - Basic Issue Templates
+- [PR Template](https://github.com/InnateComm/.github/blob/main/.github/PULL_REQUEST_TEMPLATE.md) - Fallback PR Template
