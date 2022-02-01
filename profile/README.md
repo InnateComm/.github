@@ -1,11 +1,11 @@
 <!-- markdownlint-disable -->
 <div align="center">
-  <h1>Cerulean Coders</h1>
+  <h1>Innate</h1>
   <p>
-    <a href="https://dsc.gg/ceruleancoders">
+    <a href="https://innatecomm.us/chat">
       <img src="https://img.shields.io/badge/Discord%20Server%0A-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>
-    <a href="https://twitter.com/CeruleanCoders">
+    <a href="https://twitter.com/InnateComm">
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
     </a>
   </p>
