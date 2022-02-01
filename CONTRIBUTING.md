@@ -21,7 +21,7 @@ Explain the problem and include additional details to help maintainers reproduce
 * **Include screenshots or animated GIFs** which show you following the described steps and clearly demonstrate the problem. If you use the keyboard while following the steps, use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
 
 ## Cloning the project & creating PR
-**1.** Fork the repository. Click on the <a  href="https://github.com/CeruleanCodersComm/.github"><img  src="https://img.icons8.com/fluency/30/000000/code-fork.png"/></a> symbol at the top right corner.
+**1.** Fork the repository. Click on the <a  href="https://github.com/InnateComm/.github"><img  src="https://img.icons8.com/fluency/30/000000/code-fork.png"/></a> symbol at the top right corner.
 
 **2.** Clone the forked repository.
 
@@ -71,4 +71,4 @@ git push origin your-branch-name
 🎉 Congratulations! You've made your first pull request! Now, you should just wait until the maintainers review your pull request.
 
 
-## Join our Community on [Discord](https://dsc.gg/ceruleancoders)
+## Join our Community on [Discord](https://innatecomm.us/chat)
