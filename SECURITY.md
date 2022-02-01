@@ -6,4 +6,4 @@ Please do not open GitHub issues or pull requests - this makes the problem immed
 
 ## Reporting a Vulnerability
 
-To report a security vulnerability you can mail: ceruleancoderscomm@gmail.com
+To report a security vulnerability you can mail: support@innatecomm.us
